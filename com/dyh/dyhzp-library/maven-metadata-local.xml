@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dyh</groupId>
+  <artifactId>dyhzp-library</artifactId>
+  <versioning>
+    <release>spring4</release>
+    <versions>
+      <version>spring4</version>
+    </versions>
+    <lastUpdated>20250712135559</lastUpdated>
+  </versioning>
+</metadata>
